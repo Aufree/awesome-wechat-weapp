@@ -55,6 +55,6 @@
 ## 文章
 
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
-- [](http://www.jianshu.com/p/060c6f3dd4e8)
+- [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
 - [关于微信小程序（应用号）的底层逻辑分析和拥抱建议](https://zhuanlan.zhihu.com/p/22565340)
 - [微信小程序常见问题汇总 微信小程序有什么功能 如何申请？](http://kulianw.com/keji/201609/18558.html)
