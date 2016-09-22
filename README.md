@@ -32,6 +32,12 @@
 - [微信推出小程序应用号，移动互联网第二春会来吗？](http://36kr.com/topics/98)
 - [一篇文章读懂微信小程序(应用号)是什么，是否值得投入进来做？](http://www.woshipm.com/it/417887.html)
 - [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析](https://www.huxiu.com/article/164700.html)
+- [微信应用号正式公开，一个开放的微信已经上路？](https://www.huxiu.com/article/164634.html)
+- [一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？](https://www.huxiu.com/article/164679.html)
+- [一张图看懂微信“小程序”](http://wenda.louqun.com/article/107593)
+- [关于微信小程序，我联想到的几点](https://zi.com/w/a/b32fJp)
+- [你想做个怎样的微信小程序？](http://www.880917.com/wang/10850.html)
+- [微信小程序动了谁的蛋糕,又会把蛋糕分给谁?](http://it.sohu.com/20160922/n468981595.shtml)
 
 ## 文档教程
 
@@ -51,3 +57,4 @@
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
 - [](http://www.jianshu.com/p/060c6f3dd4e8)
 - [关于微信小程序（应用号）的底层逻辑分析和拥抱建议](https://zhuanlan.zhihu.com/p/22565340)
+- [微信小程序常见问题汇总 微信小程序有什么功能 如何申请？](http://kulianw.com/keji/201609/18558.html)
