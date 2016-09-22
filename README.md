@@ -1,4 +1,4 @@
-![](http://static.phphub.org/uploads/images/201609/23/1/ECmzNLBHZo.jpg)
+![](https://cloud.githubusercontent.com/assets/324764/18769116/e6c33c30-815c-11e6-8d34-5a50b7f4af74.png)
 
 # 微信小应用资源汇总整理
 
