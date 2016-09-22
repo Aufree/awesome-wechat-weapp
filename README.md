@@ -1,4 +1,4 @@
-![](https://dn-phphub.qbox.me/uploads/images/201609/23/1/M3q68Vaijl.png)
+![](https://dn-phphub.qbox.me/uploads/images/201609/23/1/M3q68Vaijl.png?imageView2/2/w/1400)
 
 # 微信小应用资源汇总整理
 
