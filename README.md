@@ -4,10 +4,31 @@
 
 ## 开源项目
 
-- [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 demo
+- [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
 - [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
 - [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) - API 文档
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
+
+## 文档
+
+- [简易教程](http://wxopen.notedown.cn/)
+- [开发者工具文档](http://wxopen.notedown.cn/devtools/devtools.html)
+- [API 文档](http://wxopen.notedown.cn/api/)
+- [视图组件文档](http://wxopen.notedown.cn/component/)
+- [常见问题](http://wxopen.notedown.cn/qa/qa.html)
+
+## 教程
+
+- [微信小程序开发文档](http://wxopen.notedown.cn/)
+- [微信公众平台 API 文档 - GitHub](https://github.com/Notedown-cn/wxopen)
+- [微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿](http://www.ifanr.com/721124)
+- [首个微信小程序开发教程！](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
+- [抢先看：微信官方发布的微信应用号（小程序）设计规范](http://www.woshipm.com/ucd/418190.html)
+- [开发微信小程序入门前](https://laravel-china.org/topics/2890)
+- [微信小程序开发教程！](https://xituqu.com/508.html)
+- [微信小程序开发环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)
+- [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
+- [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282?refer=phodal)
 
 ## 知乎讨论
 
@@ -39,22 +60,16 @@
 - [你想做个怎样的微信小程序？](http://www.880917.com/wang/10850.html)
 - [微信小程序动了谁的蛋糕,又会把蛋糕分给谁?](http://it.sohu.com/20160922/n468981595.shtml)
 
-## 文档教程
-
-- [微信小程序开发文档](http://wxopen.notedown.cn/)
-- [微信公众平台 API 文档 - GitHub](https://github.com/Notedown-cn/wxopen)
-- [微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿](http://www.ifanr.com/721124)
-- [首个微信小程序开发教程！](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
-- [抢先看：微信官方发布的微信应用号（小程序）设计规范](http://www.woshipm.com/ucd/418190.html)
-- [开发微信小程序入门前](https://laravel-china.org/topics/2890)
-- [微信小程序开发教程！](https://xituqu.com/508.html)
-- [微信小程序开发环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)
-- [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
-- [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282?refer=phodal)
-
 ## 文章
 
 - [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
-- [](http://www.jianshu.com/p/060c6f3dd4e8)
+- [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
 - [关于微信小程序（应用号）的底层逻辑分析和拥抱建议](https://zhuanlan.zhihu.com/p/22565340)
 - [微信小程序常见问题汇总 微信小程序有什么功能 如何申请？](http://kulianw.com/keji/201609/18558.html)
+
+
+---
+
+欢迎投稿：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
+
+---
