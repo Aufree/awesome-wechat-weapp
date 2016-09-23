@@ -69,6 +69,8 @@
 - [关于微信小程序（应用号）的全部看法](http://www.jianshu.com/p/f8266c940eaf)
 - [微信应用号相关资料集合](http://www.jianshu.com/p/597de915ef68)
 - [封闭一周开发微信应用号（小程序）](https://www.v2ex.com/t/308005#reply17)
+- [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
+- [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 
 ---
 
