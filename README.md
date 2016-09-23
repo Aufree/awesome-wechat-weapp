@@ -72,6 +72,10 @@
 - [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 
+## Author
+
+> 发哥是全端工程师，酷爱新技术，关注发哥微博 http://weibo.com/jinfali
+
 ---
 
 欢迎投稿：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
