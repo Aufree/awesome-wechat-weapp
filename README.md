@@ -28,7 +28,8 @@
 - [微信小程序开发教程！](https://xituqu.com/508.html)
 - [微信小程序开发环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)
 - [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
-- [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282?refer=phodal)
+- [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282)
+- [微信小程序「官方示例代码」浅析【下】](https://zhuanlan.zhihu.com/p/22579053)
 
 ## 知乎讨论
 
@@ -71,6 +72,7 @@
 - [封闭一周开发微信应用号（小程序）](https://www.v2ex.com/t/308005#reply17)
 - [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
+- [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
 
 ## Author
 
