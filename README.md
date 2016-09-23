@@ -76,10 +76,10 @@
 
 ## Author
 
-> 发哥就是我，全端工程师，酷爱新技术，关注发哥微博 http://weibo.com/jinfali
+> 发哥是全栈工程师，目前是 [Laravel China 社区](https://laravel-china.org/) 的管理员，请关注我微博 http://weibo.com/jinfali
 
 ---
 
-欢迎投稿：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
+欢迎提交链接：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
 
 ---
