@@ -8,6 +8,7 @@
 - [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
 - [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) - API 文档
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
+- [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
 
 ## 文档
 
