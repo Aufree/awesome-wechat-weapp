@@ -76,7 +76,7 @@
 
 ## Author
 
-> 大家好，我是李锦发，请叫我发哥，全端工程师，酷爱新技术，热爱分享，有问题可通过微博找到我 http://weibo.com/jinfali
+> 发哥就是我，全端工程师，酷爱新技术，关注发哥微博 http://weibo.com/jinfali
 
 ---
 
