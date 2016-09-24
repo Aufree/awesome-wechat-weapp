@@ -13,7 +13,8 @@
 
 ## 文档
 
-- [简易教程](http://wxopen.notedown.cn/)
+- [官方文档](https://mp.weixin.qq.com/wiki/)
+- [简易教程](http://wxopen.notedown.cn/qa/qa.html)
 - [开发者工具文档](http://wxopen.notedown.cn/devtools/devtools.html)
 - [API 文档](http://wxopen.notedown.cn/api/)
 - [视图组件文档](http://wxopen.notedown.cn/component/)
