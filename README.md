@@ -9,6 +9,7 @@
 - [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) - API 文档
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
 - [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
+- [weapp-douban](https://github.com/zce/weapp-demo) -  豆瓣电影 微信小程序
 
 ## 文档
 
