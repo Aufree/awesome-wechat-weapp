@@ -12,7 +12,8 @@
 - [weapp-douban](https://github.com/zce/weapp-demo) -  豆瓣电影 微信小程序
 - [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序版的知乎日报
 - [SmallApp](https://github.com/aidenzou/SmallApp) - 小 Demo，可参考
-- 
+- [微信小程序开发 DEMO - 地图定位](https://github.com/giscafer/wechat-weapp-mapdemo)
+- [TCP/IP 长连接服务,支持微信小程序 Websocket](https://github.com/leonguo/fans-server)
 
 ## 文档
 
