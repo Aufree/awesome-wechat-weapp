@@ -10,6 +10,9 @@
 - [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
 - [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
 - [weapp-douban](https://github.com/zce/weapp-demo) -  豆瓣电影 微信小程序
+- [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序版的知乎日报
+- [SmallApp](https://github.com/aidenzou/SmallApp) - 小 Demo，可参考
+- 
 
 ## 文档
 
