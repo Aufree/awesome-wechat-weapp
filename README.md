@@ -15,7 +15,8 @@
 - [微信小程序开发 DEMO - 地图定位](https://github.com/giscafer/wechat-weapp-mapdemo)
 - [TCP/IP 长连接服务,支持微信小程序 Websocket](https://github.com/leonguo/fans-server)
 - [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) - 微信小程序版的v2ex
-- [微信小程序-公众号热门文章信息流(hijiangtao/weapp-newsapp)](https://github.com/hijiangtao/weapp-newsapp)
+- [微信小程序](https://github.com/hijiangtao/weapp-newsapp) - 公众号热门文章信息流
+- [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) - 一个调用 TeamToy API 的微信小程序 Demo
 
 ## 文档
 
