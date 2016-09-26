@@ -38,6 +38,7 @@
 - [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
 - [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282)
 - [微信小程序「官方示例代码」浅析【下】](https://zhuanlan.zhihu.com/p/22579053)
+- [IDE常用快捷键——微信小程序](http://www.jianshu.com/p/8e07b403958e)
 
 ## 知乎讨论
 
