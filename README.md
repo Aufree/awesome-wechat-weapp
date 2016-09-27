@@ -18,7 +18,7 @@
 - [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) - 微信小程序版的v2ex
 - [微信小程序](https://github.com/hijiangtao/weapp-newsapp) - 公众号热门文章信息流
 - [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) - 一个调用 TeamToy API 的微信小程序 Demo
-- [weapp-snippet-for-sublime-text-2-3](sublime text 2&3 微信小程序 snippet)
+- [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) - sublime text 2&3 微信小程序 snippet
 
 ## 文档
 
