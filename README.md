@@ -85,6 +85,7 @@
 - [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 - [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
+- [规范抢先看！微信小程序的官方设计指南和建议](http://weibo.com/ttarticle/p/show?id=2309404024275429409282)
 
 ## Author
 
