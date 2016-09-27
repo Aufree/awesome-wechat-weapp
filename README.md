@@ -3,6 +3,7 @@
 # 微信小应用资源汇总整理
 
 ## 开源项目
+- [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) - 微信小程序版Gank客户端
 - [wechat-dribbble](https://github.com/nicesu/wechat-dribbble) - 微信小程序-Dribbble
 - [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
 - [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
