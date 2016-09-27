@@ -23,12 +23,13 @@
 
 ## 文档
 
-- [官方文档](https://mp.weixin.qq.com/wiki/)
-- [简易教程](http://wxopen.notedown.cn/qa/qa.html)
-- [开发者工具文档](http://wxopen.notedown.cn/devtools/devtools.html)
-- [API 文档](http://wxopen.notedown.cn/api/)
-- [视图组件文档](http://wxopen.notedown.cn/component/)
-- [常见问题](http://wxopen.notedown.cn/qa/qa.html)
+- [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+- [简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
+- [设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
+- [开发者工具文档](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html)
+- [API 文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
+- [视图组件文档](https://mp.weixin.qq.com/debug/wxadoc/dev/component)
+- [常见问题](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
 
 ## 教程
 
