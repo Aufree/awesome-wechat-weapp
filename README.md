@@ -32,6 +32,7 @@
 - [API 文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
 - [视图组件文档](https://mp.weixin.qq.com/debug/wxadoc/dev/component)
 - [常见问题](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
+- [微信 UI/WEB 设计规范标注](http://huaban.com/pins/836246645/zoom/)
 
 ## 教程
 
@@ -47,6 +48,7 @@
 - [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282)
 - [微信小程序「官方示例代码」浅析【下】](https://zhuanlan.zhihu.com/p/22579053)
 - [IDE常用快捷键——微信小程序](http://www.jianshu.com/p/8e07b403958e)
+- [微信小程序开发:MINA](http://huaban.com/pins/836246645/zoom/)
 
 ## 知乎讨论
 
