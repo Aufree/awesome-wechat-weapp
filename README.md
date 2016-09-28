@@ -21,6 +21,7 @@
 - [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) - sublime text 2&3 微信小程序 snippet
 - [wxapp-cli](https://github.com/MeCKodo/wxapp-cli) - 微信小程序的脚手架
 - [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) - 微信小程序之练手小玩意儿——Todo List
+- [wxapp-2048](https://github.com/jeffche/wechat-app-2048) - 微信小程序之2048小游戏
 
 ## 文档
 
