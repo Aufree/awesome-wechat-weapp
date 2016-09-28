@@ -20,6 +20,7 @@
 - [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) - 一个调用 TeamToy API 的微信小程序 Demo
 - [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) - sublime text 2&3 微信小程序 snippet
 - [wxapp-cli](https://github.com/MeCKodo/wxapp-cli) - 微信小程序的脚手架
+- [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) - 微信小程序之练手小玩意儿——Todo List
 
 ## 文档
 
