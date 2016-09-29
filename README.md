@@ -5,6 +5,7 @@
 # 微信小应用资源汇总整理
 
 ## 开源项目
+- [WeApp](https://github.com/18380435477/WeApp) - 微信小程序版的微信
 - [wechat-weapp-redux-todos](https://github.com/charleyw/wechat-weapp-redux-todos) - 微信小程序集成Redux实现的Todo list
 - [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) - 微信小程序版Gank客户端
 - [wechat-dribbble](https://github.com/nicesu/wechat-dribbble) - 微信小程序-Dribbble
