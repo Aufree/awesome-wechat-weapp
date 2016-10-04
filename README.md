@@ -1,4 +1,4 @@
-此项目已不再维护，若有需要，请前往该兄弟项目进行查看：https://github.com/justjavac/awesome-wechat-weapp
+> 有问题可通过微博联系我： http://weibo.com/jinfali
 
 ---
 
@@ -97,13 +97,3 @@
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 - [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
 - [规范抢先看！微信小程序的官方设计指南和建议](http://weibo.com/ttarticle/p/show?id=2309404024275429409282)
-
-## Author
-
-> 发哥是全栈工程师，目前是 [Laravel China 社区](https://laravel-china.org/) 的管理员，请关注我微博 http://weibo.com/jinfali
-
----
-
-欢迎提交链接：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
-
----
