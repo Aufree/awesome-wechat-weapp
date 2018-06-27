@@ -1,17 +1,15 @@
 <p align="center">
   <br>
-  <b>创造不息，交付不止</b>
+  若需要软件外包服务，可与我联系，添加好友请注明来意
   <br>
-  <a href="https://www.yousails.com">
-    <img src="https://yousails.com/banners/brand.png" width=350>
-  </a>
+  <br>  
+  <img src="https://user-images.githubusercontent.com/5310542/41954703-5178d4e8-7a0f-11e8-81b2-41c8f6aa0151.png" width="30%">
 </p>
 
 ---
 
 > - 有问题可通过微博联系我： http://weibo.com/jinfali
 > - 本人著作的书籍[《Laravel 入门教程》](https://laravel-china.org/laravel-tutorial/5.1)已正式发布，有兴趣的朋友可点击 [此处](https://laravel-china.org/topics/3383) 作进一步了解。
-> - 本项目由 [优帆远扬](http://yousails.com/) 提供技术支持，有需要技术服务或软件开发的朋友可 [跟我联系](mailto:aufree@yousails.com)。
 
 # 微信小应用资源汇总整理
 
